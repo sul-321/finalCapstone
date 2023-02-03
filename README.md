@@ -14,5 +14,7 @@ Install SQLite3
 Clone this repository onto your local machine
 Run the "main.py" file
 Follow the menu-based interface to perform various actions on the store
+
 Credits:
 This project was created by a single person. No external libraries or resources were used in the development of this project.
+
